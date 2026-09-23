@@ -1,0 +1,9 @@
+streamlit
+youtube-transcript-api
+langchain-huggingface
+langchain-experimental
+langchain-openai
+chromadb
+langchain-chroma
+openai
+sentence-transformers
